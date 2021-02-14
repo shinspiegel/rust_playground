@@ -1,1 +1,0 @@
-/Users/shin/Documents/Personal/Code/RUST/rust_playground/two_make_ten/target/debug/two_make_ten: /Users/shin/Documents/Personal/Code/RUST/rust_playground/two_make_ten/src/main.rs /Users/shin/Documents/Personal/Code/RUST/rust_playground/two_make_ten/src/two_make_ten.rs
